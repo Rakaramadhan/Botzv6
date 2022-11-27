@@ -22,8 +22,8 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = '@rhandrqz_' // ubah aja
-global.email = 'denyp857@gmail.com'
+global.ig = '@raka.ramadhan180108' // ubah aja
+global.email = 'KhaTheHard@gmail.com'
 global.region = 'japan'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Kz' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -31,8 +31,8 @@ global.botname = 'Kzbotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Kz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6288293499014'] // ubah aja pake nomor lu
-global.premium = ['6288293499014'] // ubah aja pake nomor lu
+global.owner = ['62882006212045'] // ubah aja pake nomor lu
+global.premium = ['62882006212045'] // ubah aja pake nomor lu
 global.packname = 'Kz' // ubah aja
 global.ownerr = ['Kz'] // ubaha aja
 global.author = 'Kz' //ubah aja
